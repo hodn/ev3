@@ -1,0 +1,14 @@
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\bin\Debug\EV3_WPF.exe.config
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\bin\Debug\EV3_WPF.exe
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\bin\Debug\EV3_WPF.pdb
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\bin\Debug\LibUsbDotNet.dll
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\bin\Debug\TestApplication.dll
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.PlayForm.resources
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.SettingsForm.resources
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.Properties.Resources.resources
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.csproj.GenerateResource.cache
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.csproj.CopyComplete
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.exe
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.pdb
+C:\Users\Hoang\source\repos\EV3_WPF\EV3_WPF\obj\Debug\EV3_WPF.csprojAssemblyReference.cache
